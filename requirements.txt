@@ -7,3 +7,4 @@ seaborn
 rasterio
 tqdm
 imageio
+fuzzywuzzy
