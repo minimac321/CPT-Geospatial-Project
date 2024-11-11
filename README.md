@@ -1,2 +1,3 @@
-# CPT-Geospatial-Project
-Geospatial Analysis of Capet Town
+# Geospatial-Project
+
+A collection of work associated with geospatial analysis
